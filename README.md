@@ -32,7 +32,11 @@
 - 职级对标 [地址](https://duibiao.info/)
 - CodeTop 企业题库 [地址](https://codetop.cc/home)
 
-# 7. 其他
+# 7. 在线 IDE
+- StackBlitz [地址](https://stackblitz.com/) （提供常用模板）
+- CodeShandBox [地址](https://codesandbox.io/)
+- CodePen [地址](https://codepen.io/)
+# 8. 其他
 -  Shields [地址](https://shields.io/) (npm 的一些统计徽章)
 - GitHub buttons [地址](https://ghbtns.com/) （Github 引导 star）
 - GitHub Corners [地址](https://tholman.com/github-corners/)（Github 引导 star）
