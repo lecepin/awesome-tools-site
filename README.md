@@ -17,6 +17,7 @@
 - Indent-Rainbow [地址](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - GitLens [地址](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - Search node_modules [地址](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+- CopilotPreview [地址](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 # 4. 在线小工具
 - ICON 生成 [地址](https://lp-pwa.gitee.io/pwa-genicon/)
