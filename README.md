@@ -21,14 +21,15 @@
 
 # 4. 在线小工具
 - ICON 生成 [地址](https://lp-pwa.gitee.io/pwa-genicon/)
-- 图片添加边框 [地址](https://apis.leping.fun/image-border/)
+- 图片添加边框 [地址](https://lecepin.github.io/image-border/)
 - Carbon 代码图片 [地址](https://carbon.now.sh/)
 - 抖音下载 [地址](https://3g.gljlw.com/diy/douyin.php)
 
 # 5. 正则可视化
 - RBTree [地址](http://tool.rbtree.cn/regtool/)
-- Debuggex [地址](https://www.debuggex.com/)
+- ⭐ Debuggex [地址](https://www.debuggex.com/)
 - RobertElder [地址](https://blog.robertelder.org/regular-expression-visualizer/) 
+- ⭐ RegExr [地址](https://regexr.com/)
 
 # 6. 互联网职场
 - 职级对标 [地址](https://duibiao.info/)
