@@ -44,8 +44,9 @@
 - MasterGo [地址](https://mastergo.com)
 
 # 9. 其他
--  Shields [地址](https://shields.io/) (npm 的一些统计徽章)
+- Shields [地址](https://shields.io/) (npm 的一些统计徽章)
 - GitHub buttons [地址](https://ghbtns.com/) （Github 引导 star）
+- GitHub buttons2 [地址](https://buttons.github.io/)（更多的自定义能力）
 - GitHub Corners [地址](https://tholman.com/github-corners/)（Github 引导 star）
 - GitHub Star History [地址](https://star-history.com/)（Github start 历史数据图表）
 - Npm-stat [地址](https://npm-stat.com/charts.html)（Npm 包下载数据图表）
