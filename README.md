@@ -24,6 +24,8 @@
 - 图片添加边框 [地址](https://lecepin.github.io/image-border/)
 - Carbon 代码图片 [地址](https://carbon.now.sh/)
 - 抖音下载 [地址](https://3g.gljlw.com/diy/douyin.php)
+  - 简版 [地址](https://apis.leping.fun/dy/)
+- Squoosh [地址](https://squoosh.app/) (各类图片压缩算法实现)
 
 # 5. 正则可视化
 - RBTree [地址](http://tool.rbtree.cn/regtool/)
