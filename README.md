@@ -47,7 +47,15 @@
 # 8. 在线设计
 - MasterGo [地址](https://mastergo.com)
 
-# 9. 其他
+# 9. 在线 ASCII
+- 图片转 ASCII [地址](https://www.qtool.net/imgascii) (比例正常)
+- IMG2TXT: ASCII Art Made Easy [地址](https://www.degraeve.com/img2txt.php) (同上，但只支持在线图片)
+- Text
+  - ASCII Banner/Signature Generator [地址](http://asciiset.com/figletserver.html) (文字)
+  - ASCII Figlet Generator [地址](https://www.askapache.com/online-tools/figlet-ascii/) (同上，文字，可以生成所有风格)
+  - Text to ASCII Art Generator [地址](https://patorjk.com/software/taag/) (可以生成所有风格)
+
+# 10. 其他
 - Shields [地址](https://shields.io/) (npm 的一些统计徽章)
 - GitHub buttons [地址](https://ghbtns.com/) （Github 引导 star）
 - GitHub buttons2 [地址](https://buttons.github.io/)（更多的自定义能力）
