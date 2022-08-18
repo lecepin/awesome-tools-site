@@ -48,6 +48,7 @@
 - MasterGo [地址](https://mastergo.com)
 
 # 9. 在线 ASCII
+- 图片转多咱 ASCII 图片 [地址](https://lecepin.github.io/rust-wasm-image-ascii/)
 - 图片转 ASCII [地址](https://www.qtool.net/imgascii) (比例正常)
 - IMG2TXT: ASCII Art Made Easy [地址](https://www.degraeve.com/img2txt.php) (同上，但只支持在线图片)
 - Text
