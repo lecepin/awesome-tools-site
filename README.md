@@ -61,7 +61,10 @@
 - PixelMe [地址](https://pixel-me.tokyo/en/)
 - 万斯AI [地址](https://vanceai.com/)  (包含多种工具)
 
-# 11. 其他
+# 11. emoji
+- 符号大全 [地址](http://www.fhdq.net/emoji/emojifuhao.html)
+
+# 12. 其他
 - Shields [地址](https://shields.io/) (npm 的一些统计徽章)
 - GitHub buttons [地址](https://ghbtns.com/) （Github 引导 star）
 - GitHub buttons2 [地址](https://buttons.github.io/)（更多的自定义能力）
