@@ -31,6 +31,7 @@
 - Squoosh [地址](https://squoosh.app/) (各类图片压缩算法实现)
 - 目录树文本版 [地址](http://dir.yardtea.cc/)
 - 人体肌肉骨骼 [地址](https://www.kinebody.com/new/webapp/eula.php)
+- 万年历 [地址](https://wannianrili.bmcx.com/)
 
 # 5. 正则可视化
 - RBTree [地址](http://tool.rbtree.cn/regtool/)
@@ -46,6 +47,7 @@
 - StackBlitz [地址](https://stackblitz.com/) （提供常用模板）
 - CodeShandBox [地址](https://codesandbox.io/)
 - CodePen [地址](https://codepen.io/)
+- 在线运行代码 [地址](https://ntool.chinaz.com/coderun)
 
 # 8. 在线设计
 - MasterGo [地址](https://mastergo.com)
