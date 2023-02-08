@@ -29,7 +29,7 @@
   - 简版 [地址](https://apis.leping.fun/dy/)
 - Youtube 下载[地址](https://zh.savefrom.net/)
 - Squoosh [地址](https://squoosh.app/) (各类图片压缩算法实现)
-- 目录树文本版 [地址](http://dir.yardtea.cc/)
+- 目录树文本版 [地址](https://lecepin.github.io/dir-tree/)
 - 人体肌肉骨骼 [地址](https://www.kinebody.com/new/webapp/eula.php)
 - 万年历 [地址](https://wannianrili.bmcx.com/)
 
